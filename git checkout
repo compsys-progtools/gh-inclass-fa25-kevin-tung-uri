@@ -1,0 +1,20 @@
+[33mcommit bb7f57094b380f51edd2f1a2ad98ba6754394960[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c8f4926 172176e
+Author: Kevin Tung <kevin.tung@uri.edu>
+Date:   Tue Sep 16 12:51:50 2025 -0400
+
+    Merge pull request #2 from compsys-progtools/1-add-a-readme
+    
+    create a readme closes #1
+
+[33mcommit 172176ec40441e4683d94719d1312cd8559f715b[m[33m ([m[1;31morigin/1-add-a-readme[m[33m, [m[1;32m1-add-a-readme[m[33m)[m
+Author: BuildTools <unconfigured@null.spigotmc.org>
+Date:   Thu Sep 11 13:41:26 2025 -0400
+
+    create a readme closes #1
+
+[33mcommit c8f4926313ba8f6c5bfad3857b7479a666328e6d[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 11 14:49:01 2025 +0000
+
+    Initial commit
